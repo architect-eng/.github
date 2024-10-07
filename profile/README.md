@@ -1,1 +1,1 @@
-# Architect
+![Architect logo](./github-banner.png)
